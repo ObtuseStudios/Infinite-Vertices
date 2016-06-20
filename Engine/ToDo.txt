@@ -1,0 +1,53 @@
+-------------- TASKS --------------
+
+Kinda -	Fix vector class operator overloading
+Done -	Use templates for debug class
+Done -	Add get button down function into input
+Done -	Add scrollling backgrounds
+Gay -	Update FileReader class
+Done -	Fix bug with drawing text
+Done - 	Make window resizable
+		Add multi window support
+Kinda -	Create particle system class
+Done -	Make tiling engine
+Done -	Add 'Tiled' map editor support
+Done -	Fix pixel art scaling
+		Ability to render scene to texture
+Done -	Add framerate independent movement
+Later -	Multithreading support
+Later -	Thread syncronisation
+		Come up with a way to use pixel art text rendering
+		Properly free resources
+Done -	Add referenceing blocks based on tileset IDs
+Done -	Make objects in tile map each individual sprites
+Gay -	Add splashscreen support
+Done -	Add developer mode
+		Make setPos also apply camera scaling
+Done -	Basic pathfinding
+		Good pathfinding
+
+
+
+-------------- BUGS --------------
+
+		Fix all type conversions that exist (TONS!)
+		Optimise drawing routine and setPos().
+		Actually use naming conventions
+		Fix collision bounce effect
+Done -	Fix bug where camera goes slightly off screen
+
+Done -	Don't use magic numbers in scrolling class
+		Dont make particle class use magic numbers
+
+
+
+-------------- DREAMS --------------
+
+		Physics:
+
+		Body
+		Collision detection
+		Collision resolution (impulse resolution)
+		... (More crap)
+
+		P.S COMMENT THE FU*KING CODE!!!!!!
